@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: Courier, monospace;
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+}
+
+h2 {
+	text-align: left;
+	font-family: Arial, monospace;
+	font-size: 24px;
+    font-style: italic;
+    color: green;
+}
+
+p {
+	font-family: Times New Roman, monospace;
+	font-size: 18px;
+	color: pink;
+	line-height: 2;
+	text-indent: 2cm;
+}
+
+.highlight {
+	color: blue;
+	text-decoration: underline;
+	letter-spacing: 4pt;
+}

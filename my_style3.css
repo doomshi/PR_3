@@ -1,0 +1,14 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    display: inline-block;
+    width: 18%;
+    height: 150px;
+    border: 2px dashed blue;
+    box-sizing: border-box;
+    background: linear-gradient(to left, #ffff00, #00ff00);
+}
